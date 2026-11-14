@@ -1,0 +1,438 @@
+[
+  {
+    "station": "Bois-Franc",
+    "area": "Saint-Laurent / Ahuntsic-Cartierville (Montréal)",
+    "opened": "2025-11-17",
+    "summary": "Bois-Franc is the REM's main junction, where the Airport, Anse-à-l'Orme and Deux-Montagnes branches split, set in a planned low- and mid-rise neighbourhood of Saint-Laurent. Saint-Laurent and Ahuntsic-Cartierville adopted a joint TOD special planning programme (PPU) in 2023, covering a 1 km radius around the station. Over 20+ years it foresees about 7,700 new homes, and mid-rise rental towers are already going up along boulevard Henri-Bourassa Ouest.",
+    "activity": "high",
+    "stats": [
+      {
+        "label": "New homes potential (TOD area, 20+ yrs)",
+        "value": "≈ 7,700",
+        "source_url": "https://montreal.ca/articles/le-tod-bois-franc-une-ville-dans-la-ville-5437"
+      },
+      {
+        "label": "Potential new residents",
+        "value": "≈ 15,000",
+        "source_url": "https://montreal.ca/articles/le-tod-bois-franc-une-ville-dans-la-ville-5437"
+      },
+      {
+        "label": "Planned office space",
+        "value": "39,600 m²",
+        "source_url": "https://montreal.ca/articles/le-tod-bois-franc-une-ville-dans-la-ville-5437"
+      },
+      {
+        "label": "Planned commercial space",
+        "value": "37,700 m²",
+        "source_url": "https://montreal.ca/articles/le-tod-bois-franc-une-ville-dans-la-ville-5437"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Chapitre Bois-Franc",
+        "developer": "Montoni",
+        "status": "under_construction",
+        "uses": [
+          "residential"
+        ],
+        "units": null,
+        "floor_area": null,
+        "height": "13 storeys",
+        "timeline": "Construction started September 2025; move-ins expected May 2027",
+        "cost": "$100M",
+        "description": "Rental complex with more than 300 units, from studios to townhouses, at Henri-Bourassa Ouest and Marcel-Laurin, right beside the station. It includes a pedestrian passage to the REM, a 13th-floor terrace with a pool, and targets LEED Gold and Zero Carbon certification.",
+        "renders_url": "https://www.lapresse.ca/maison/immobilier/2026-04-17/station-bois-franc/quand-le-rem-change-le-visage-d-un-quartier.php",
+        "source_url": "https://groupemontoni.com/fr/compagnie/actualites/nouvelles/montoni-devoile-chapitre-bois-franc-un-nouveau-projet-residentiel-au-coeur-de-saint-laurent"
+      },
+      {
+        "name": "364-unit residential complex on boulevard Henri-Bourassa (TOD Bois-Franc)",
+        "developer": "E. Khoury Construction (project team listed by NEUF architect(e)s)",
+        "status": "proposed",
+        "uses": [
+          "residential"
+        ],
+        "units": 364,
+        "floor_area": null,
+        "height": "Three buildings of 8 to 10 storeys",
+        "timeline": "Construction expected to start September 2026; delivery planned December 2027",
+        "cost": null,
+        "description": "Three mid-rise buildings along boulevard Henri-Bourassa inside the Bois-Franc TOD area, targeting LEED Silver certification. Plans include 183 underground parking spaces, 560 bike spaces and green roofs.",
+        "renders_url": "https://www.portailconstructo.com/actualites/projet_residentiel_364_logements_prendra_forme_dans_bois_franc",
+        "source_url": "https://www.portailconstructo.com/actualites/projet_residentiel_364_logements_prendra_forme_dans_bois_franc"
+      },
+      {
+        "name": "Équinoxe Bois-Franc",
+        "developer": "Collection Équinoxe",
+        "status": "under_construction",
+        "uses": [
+          "residential"
+        ],
+        "units": null,
+        "floor_area": null,
+        "height": null,
+        "timeline": "Occupancy March 2027",
+        "cost": null,
+        "description": "Two-phase rental condo complex at 5375 boulevard Henri-Bourassa Ouest, a few steps from the REM station, with an indoor pool, gym and business centre. The two phases are linked by a pedestrian promenade.",
+        "renders_url": "https://collectionequinoxe.com/boisfranc/",
+        "source_url": "https://collectionequinoxe.com/boisfranc/"
+      },
+      {
+        "name": "Aura sur le Square",
+        "developer": "Groupe Montclair",
+        "status": "completed",
+        "uses": [
+          "residential"
+        ],
+        "units": 218,
+        "floor_area": null,
+        "height": null,
+        "timeline": "Two phases; both LEED Gold certified (phase 2 units still on sale in 2026)",
+        "cost": null,
+        "description": "Condominium project with 218 units in two phases, less than 300 m from Bois-Franc station. Amenities include an outdoor infinity pool and a landscaped central square.",
+        "renders_url": "https://aura.boisfranc.com/",
+        "source_url": "https://aura.boisfranc.com/"
+      }
+    ],
+    "plans": [
+      {
+        "name": "Programme particulier d'urbanisme (PPU) du secteur TOD Bois-Franc",
+        "by": "Ville de Montréal – boroughs of Saint-Laurent and Ahuntsic-Cartierville",
+        "url": "https://montreal.ca/articles/le-tod-bois-franc-une-ville-dans-la-ville-5437"
+      },
+      {
+        "name": "PPU TOD Bois-Franc – Saint-Laurent document (PDF)",
+        "by": "Arrondissement de Saint-Laurent",
+        "url": "https://ocpm.qc.ca/sites/default/files/pdf/P126/3-1-13-15_PUM_PPU_BOISFRANC_St-LAU.pdf"
+      }
+    ],
+    "notes": "Aura sur le Square is marked 'completed' because the developer says both phases are LEED Gold certified, but phase 2 units were still being sold. Équinoxe Bois-Franc is marked 'under construction' because it advertises March 2027 occupancy; no construction start date was found. The developer does not state its unit count. For the 364-unit project, the developer is inferred from the NEUF architect(e)s team list, and it may be related to Équinoxe (both are on Henri-Bourassa); this was not verified. Its construction start (September 2026) was not confirmed. A search snippet suggested the Saint-Laurent plan d'urbanisme regulation containing the PPU was repealed in June 2025, likely when Montréal's new 2050 urban plan (PUM) took effect. Whether the PPU still applies as-is was not verified."
+  },
+  {
+    "station": "Sunnybrooke",
+    "area": "Pierrefonds-Roxboro (Montréal)",
+    "opened": "2025-11-17",
+    "summary": "Sunnybrooke is an elevated station at Gouin Ouest and Sunnybrooke in a suburban, mostly single-family part of Pierrefonds-Roxboro, with large park-and-ride lots. The only major project proposed next to the station was a 6-storey building with 111 units, killed in 2022–2023 after just 26 residents signed a referendum register. No new large development has been confirmed since.",
+    "activity": "low",
+    "stats": [
+      {
+        "label": "Homes in blocked project next to station",
+        "value": "111",
+        "source_url": "https://www.lapresse.ca/affaires/marche-immobilier/2023-07-06/regard-sur-l-immobilier/un-autre-cas-de-pas-dans-ma-cour.php"
+      },
+      {
+        "label": "Signatures that stopped it",
+        "value": "26",
+        "source_url": "http://applicatif.ville.montreal.qc.ca/som-en/pdf_avis/pdfav34595.pdf"
+      },
+      {
+        "label": "Park-and-ride spaces",
+        "value": "494",
+        "source_url": "https://www.railfans.ca/rem/content/stations/sunnybrooke"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mixed-use building at Gouin Ouest / Sunnybrooke (9720-9730 Gouin O. / 4700-4704 Sunnybrooke)",
+        "developer": "Groupe Quorum",
+        "status": "cancelled",
+        "uses": [
+          "residential",
+          "retail"
+        ],
+        "units": 111,
+        "floor_area": null,
+        "height": "6 storeys",
+        "timeline": "Zoning resolution withdrawn December 2022; developer declared it abandoned in 2023",
+        "cost": null,
+        "description": "Proposed 6-storey building with 111 homes, ground-floor commercial space and indoor parking, to replace an old garage and a vacant industrial building beside the station. The borough supported it, but a referendum register reached 26 signatures (20 were needed), and the borough withdrew the zoning change.",
+        "renders_url": "https://globalnews.ca/news/9825599/pierrefonds-roxboro-redevelopment-project-rem-station-blocked/",
+        "source_url": "https://www.lapresse.ca/affaires/marche-immobilier/2023-07-06/regard-sur-l-immobilier/un-autre-cas-de-pas-dans-ma-cour.php"
+      }
+    ],
+    "plans": [],
+    "notes": "No active development project near Sunnybrooke station was found as of late 2026. Quorum said in 2023 it would hold onto the land but had no plans to resubmit."
+  },
+  {
+    "station": "Pierrefonds-Roxboro",
+    "area": "Pierrefonds-Roxboro (Montréal)",
+    "opened": "2025-11-17",
+    "summary": "This station on boulevard Gouin serves a low-density borough where residents have repeatedly blocked mid-rise housing near the REM. Between 2022 and 2024, all three large projects proposed next to the borough's REM stations were stopped. A 73-unit, 6-storey building near Gouin and des Sources was later authorized in 2025 under Québec's fast-track housing rule.",
+    "activity": "low",
+    "stats": [
+      {
+        "label": "Large projects near REM refused (2022–2024)",
+        "value": "3 of 3",
+        "source_url": "https://www.lapresse.ca/actualites/grand-montreal/pierrefonds-roxboro/pas-de-densification-dans-ma-cour/2024-08-10/l-arrondissement-qui-refusait-de-grandir.php"
+      },
+      {
+        "label": "Homes lost in cancelled Brivia project",
+        "value": "414",
+        "source_url": "https://www.lapresse.ca/actualites/grand-montreal/pierrefonds-roxboro/pas-de-densification-dans-ma-cour/2024-08-10/l-arrondissement-qui-refusait-de-grandir.php"
+      }
+    ],
+    "projects": [
+      {
+        "name": "11709-11713 boulevard Gouin Ouest",
+        "developer": "Not disclosed",
+        "status": "approved",
+        "uses": [
+          "residential"
+        ],
+        "units": 73,
+        "floor_area": null,
+        "height": "6 storeys",
+        "timeline": "Consultation ended May 2024; authorized April 7, 2025 (section 93, Bill 31)",
+        "cost": null,
+        "description": "A 6-storey residential building with 73 units and underground parking at Gouin Ouest and boulevard des Sources, near Pierrefonds-Roxboro station. It replaces a vacant former restaurant.",
+        "renders_url": "https://pierrefonds-roxboro.cocoriko.org/multitheme/specific-construction-proposal-of-a-residential-building-of-73-units-at-11709-11713-boulevard-gouin-?lng=en-CA",
+        "source_url": "https://forum.agoramtl.com/t/11709-gouin-ouest-6-etages/7306"
+      },
+      {
+        "name": "10451 boulevard Gouin Ouest (corner 4e Avenue)",
+        "developer": "MTL Développement (promoter Labid Aljundi)",
+        "status": "cancelled",
+        "uses": [
+          "residential",
+          "retail"
+        ],
+        "units": 63,
+        "floor_area": null,
+        "height": "6 storeys (reduced from an initial 10)",
+        "timeline": "Resolution withdrawn May 2024 after a referendum register",
+        "cost": null,
+        "description": "Proposed 6-storey rental building with ground-floor commercial space, directly across from the REM station on a site abandoned for about a decade. 146 residents signed a register demanding a referendum (71 were needed), and the borough withdrew the project.",
+        "renders_url": "https://forum.agoramtl.com/t/10451-gouin-ouest-6-etages-2024/3251",
+        "source_url": "http://applicatif.ville.montreal.qc.ca/som-en/pdf_avis/pdfav37697.pdf"
+      },
+      {
+        "name": "Redevelopment of Meighen Street shopping centre (11112-11130 rue Meighen)",
+        "developer": "Groupe Brivia",
+        "status": "cancelled",
+        "uses": [
+          "residential",
+          "retail"
+        ],
+        "units": 414,
+        "floor_area": null,
+        "height": "Four buildings of 7–8 storeys",
+        "timeline": "Public consultation fall 2022; abandoned in 2022 after citizen opposition",
+        "cost": null,
+        "description": "Plan to replace a small shopping centre near Pierrefonds-Roxboro station with four residential buildings with ground-floor commercial space. It was dropped after citizen opposition.",
+        "renders_url": "https://forum.agoramtl.com/t/11114-rue-meighen-7-a-8-etages/1313",
+        "source_url": "https://www.lapresse.ca/actualites/grand-montreal/pierrefonds-roxboro/pas-de-densification-dans-ma-cour/2024-08-10/l-arrondissement-qui-refusait-de-grandir.php"
+      }
+    ],
+    "plans": [],
+    "notes": "The approval date for 11709-11713 Gouin Ouest comes from the Agora Montréal community forum, which cites borough council file 1255453003. The borough consultation page confirms the 73-unit, 6-storey proposal. No construction start was found. The 63-unit count and developer name for 10451 Gouin also come from Agora; La Presse confirms the 6 storeys and the cancellation. In February 2026, the land brokerage firm Landerz reported that the City of Montréal bought a 19,540 sq ft lot for residential redevelopment, a one-minute walk from the REM station (https://go.landerz.ca/contenus/pierrefonds-achat-terrain-multiresidentiel-rem). No project has been announced for it yet."
+  },
+  {
+    "station": "Île-Bigras",
+    "area": "Îles-Laval (Laval)",
+    "opened": "2025-11-17",
+    "summary": "Île-Bigras is a small elevated station on a quiet island community of about 1,000 residents, almost entirely single-family homes. Zoning allows essentially only single-family houses, and the mayor of Laval said in 2021 that densification there was not planned. No development projects are tied to the station.",
+    "activity": "low",
+    "stats": [
+      {
+        "label": "Residents served (Îles-Laval)",
+        "value": "≈ 1,000",
+        "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2021-10-05/le-rem-passe-dans-ma-cour.php"
+      },
+      {
+        "label": "Park-and-ride spaces",
+        "value": "48",
+        "source_url": "https://www.railfans.ca/rem/content/stations/ile-bigras"
+      }
+    ],
+    "projects": [],
+    "plans": [],
+    "notes": "Laval lists Île-Bigras among its seven TOD areas, but no PPU covers it; Laval's PPUs in force are Cartier, Gare Sainte-Rose and Centre-ville (https://www.laval.ca/amenagement-territoire/planification-territoire/programme-particulier-urbanisme/). No new project near the station was found as of late 2026."
+  },
+  {
+    "station": "Sainte-Dorothée",
+    "area": "Sainte-Dorothée (Laval)",
+    "opened": "2025-11-17",
+    "summary": "Sainte-Dorothée station sits in a suburban, largely single-family part of western Laval, surrounded by golf courses and green space. The main REM-era development is Quartier Metta, a low-density neighbourhood of houses and townhouses on former Le Cardinal golf land about 2 km from the station. It could eventually reach up to 2,800 homes, but there is no dense, station-area TOD redevelopment yet.",
+    "activity": "low",
+    "stats": [
+      {
+        "label": "Homes possible in Quartier Metta (long term)",
+        "value": "up to 2,800",
+        "source_url": "https://www.ledevoir.com/actualites/transports-urbanisme/663621/immobilier-des-travaux-de-dynamitage-suscitent-des-inquietudes-a-laval"
+      },
+      {
+        "label": "Sainte-Dorothée population",
+        "value": "≈ 36,000",
+        "source_url": "https://www.ledevoir.com/actualites/transports-urbanisme/663621/immobilier-des-travaux-de-dynamitage-suscitent-des-inquietudes-a-laval"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Quartier Metta",
+        "developer": "Groupe TRÉMÄ (homebuilder); originally BMP with Claridge and Groupe Quorum",
+        "status": "under_construction",
+        "uses": [
+          "residential"
+        ],
+        "units": null,
+        "floor_area": null,
+        "height": "2–3 storey houses",
+        "timeline": "Phase 1 construction from 2022; new section under construction in 2026",
+        "cost": null,
+        "description": "Low-density neighbourhood of single-family homes, semi-detached houses and townhouses at 1000 avenue des Bois, about 2 km from the REM station. The current phase has about 248–273 homes, and the full site could hold up to 2,800 if later phases (requiring rezoning of the 18-hole course) proceed.",
+        "renders_url": "https://quartiermetta.com/",
+        "source_url": "https://www.ledevoir.com/actualites/transports-urbanisme/663621/immobilier-des-travaux-de-dynamitage-suscitent-des-inquietudes-a-laval"
+      }
+    ],
+    "plans": [],
+    "notes": "Laval identifies a TOD area around Sainte-Dorothée in its 2017 land-use plan (SADR), but no PPU or detailed TOD plan for the station was found; Laval's PPUs in force are Cartier, Gare Sainte-Rose and Centre-ville. Metta phase 1 figures differ by source: 250+ (BMP), 273 (Courrier Laval) and 248 (Homz). Total figures range from about 1,200 to 2,800 depending on source and date. The French Wikipedia article on the station cites ARTM data: no residential project within 1 km of the station at opening, with up to about 2,300 Metta homes plus golf-course sites counted as maximum 2031 potential (https://fr.wikipedia.org/wiki/Station_Sainte-Doroth%C3%A9e). Laval has said it will protect at least half of the green space on golf courses that are sold."
+  },
+  {
+    "station": "Grand-Moulin",
+    "area": "Deux-Montagnes",
+    "opened": "2025-11-17",
+    "summary": "Grand-Moulin serves the older, mostly bungalow core of Deux-Montagnes along chemin d'Oka and the lake. Because of the REM, the city must allow much denser housing within about 1 km of its stations, and the area is now dotted with new 4–5 storey rental buildings. The biggest project is Quai no. 15, five 16-storey towers with about 1,500 homes on the lakefront, started in 2026.",
+    "activity": "high",
+    "stats": [
+      {
+        "label": "Homes in Quai no. 15 (by 2034)",
+        "value": "≈ 1,500",
+        "source_url": "https://leveil.com/economie/debut-des-travaux-dune-premiere-tour-a-etages-a-deux-montagnes"
+      },
+      {
+        "label": "New homes in Deux-Montagnes since 2019 (city-wide)",
+        "value": "949",
+        "source_url": "https://leveil.com/economie/debut-des-travaux-dune-premiere-tour-a-etages-a-deux-montagnes"
+      },
+      {
+        "label": "Homes under construction (city-wide, 2026)",
+        "value": "≈ 1,800",
+        "source_url": "https://leveil.com/economie/debut-des-travaux-dune-premiere-tour-a-etages-a-deux-montagnes"
+      },
+      {
+        "label": "Density target near stations",
+        "value": "60 homes/ha (CMM, 2018)",
+        "source_url": "https://ouidansmacour.quebec/deux-montagnes/"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Quai no. 15",
+        "developer": "Espaces Lokalia",
+        "status": "under_construction",
+        "uses": [
+          "residential",
+          "park"
+        ],
+        "units": 1500,
+        "floor_area": null,
+        "height": "Five towers of 16 storeys",
+        "timeline": "Excavation began March 2026; first half-tower (176 units) end of 2027; full build-out by 2034; leasing launch winter 2027",
+        "cost": "≈ $550M",
+        "description": "Rental project with five 16-storey towers on the former Accurso estate at the south end of 15e Avenue, on lac des Deux Montagnes, near Grand-Moulin station. It includes a public lakefront promenade.",
+        "renders_url": "https://www.quainumero15.ca/",
+        "source_url": "https://www.ville.deux-montagnes.qc.ca/actualites/info-travaux/debut-des-travaux-projet-residentiel-quai-no-15"
+      },
+      {
+        "name": "Le Carré de la Gare",
+        "developer": "Habitations PHG",
+        "status": "completed",
+        "uses": [
+          "residential"
+        ],
+        "units": 62,
+        "floor_area": null,
+        "height": "5 storeys",
+        "timeline": "Delivered July 2026",
+        "cost": null,
+        "description": "Rental condo building at 45, 8e Avenue (corner boulevard du Lac), steps from Grand-Moulin station. Its front façade features a hand-painted mural by Montréal muralist Ankh.",
+        "renders_url": "https://habitationsphg.com/en/carre-de-la-gare-rental-condos/",
+        "source_url": "https://leveil.com/economie/debut-des-travaux-dune-premiere-tour-a-etages-a-deux-montagnes"
+      },
+      {
+        "name": "OXIA Condos locatifs",
+        "developer": "Habitations PHG",
+        "status": "under_construction",
+        "uses": [
+          "residential",
+          "office"
+        ],
+        "units": 53,
+        "floor_area": null,
+        "height": "5 storeys",
+        "timeline": "Delivery/occupancy from September 2026",
+        "cost": null,
+        "description": "Rental building of one-bedroom units and studios, with rentable office space, at 1104 chemin d'Oka, a 6-minute walk from Grand-Moulin station. A 43-unit building at 1101 chemin d'Oka is going up across the street.",
+        "renders_url": "https://habitationsphg.com/oxia-condos-locatifs/",
+        "source_url": "https://leveil.com/economie/debut-des-travaux-dune-premiere-tour-a-etages-a-deux-montagnes"
+      }
+    ],
+    "plans": [
+      {
+        "name": "PPU Grand-Moulin (chemin d'Oka and Grand-Moulin station TOD area; 2013, revised 2018)",
+        "by": "Ville de Deux-Montagnes (participatory process with Vivre en Ville)",
+        "url": "https://ouidansmacour.quebec/deux-montagnes/"
+      },
+      {
+        "name": "Plan d'urbanisme révisé (by-law 1732, in force April 2024)",
+        "by": "Ville de Deux-Montagnes",
+        "url": "https://www.ville.deux-montagnes.qc.ca/ville-de-deux-montagnes/amenagement-du-territoire/plan-durbanisme"
+      }
+    ],
+    "notes": "The 949 and 1,800 figures cover all of Deux-Montagnes, which includes both the Grand-Moulin and Deux-Montagnes stations. Most new construction is near Grand-Moulin. A La Presse excerpt quoted on a forum described the Quai no. 15 site as about 1 km from a REM station. The city says it is near Grand-Moulin. OXIA is marked 'under construction' because the developer still lists 'Livraison en septembre 2026' and offers move-ins from October to January. It is probably occupied by now. L'Éveil also mentions Altéo (39 units, 10e Avenue, near Grand-Moulin, summer 2026) and a 32-unit mixed-use building at chemin d'Oka and 7e Avenue (about summer 2027). These were left out because no developer page was found."
+  },
+  {
+    "station": "Deux-Montagnes",
+    "area": "Deux-Montagnes",
+    "opened": "2025-11-17",
+    "summary": "Deux-Montagnes is the terminus of the REM's North Shore branch, next to boulevard de Deux-Montagnes, the Boisé Roger-Lemoine woods and a commercial hub. The city has a dedicated PPU for the station area, and its 2024 urban plan concentrates density around the two stations so that about two-thirds of the city can stay single- or two-family homes. The flagship project near this station is Maupas, an 8-storey, 115-unit rental building under construction 300 m away.",
+    "activity": "medium",
+    "stats": [
+      {
+        "label": "New homes in Deux-Montagnes since 2019 (city-wide)",
+        "value": "949",
+        "source_url": "https://leveil.com/economie/debut-des-travaux-dune-premiere-tour-a-etages-a-deux-montagnes"
+      },
+      {
+        "label": "City density today → with new towers",
+        "value": "29 → 50 homes/ha",
+        "source_url": "https://leveil.com/economie/debut-des-travaux-dune-premiere-tour-a-etages-a-deux-montagnes"
+      },
+      {
+        "label": "New homes in both TOD areas, 2023–2024",
+        "value": "155",
+        "source_url": "https://leveil.com/economie/deux-montagnes-une-ville-en-pleine-densification%EF%BF%BC"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Maupas – Condos locatifs",
+        "developer": "Groupe HD (with Société Financière Bourgie and Atwater Properties)",
+        "status": "under_construction",
+        "uses": [
+          "residential"
+        ],
+        "units": 115,
+        "floor_area": "95,000 sq ft",
+        "height": "8 storeys above ground (2 underground parking levels)",
+        "timeline": "Excavation September 2025, groundbreaking October 2025; delivery spring 2027",
+        "cost": "≈ $40M",
+        "description": "TOD rental building at 100 boulevard de Deux-Montagnes, about 300 m from the REM terminus, backing onto Boisé Roger-Lemoine. Raised on pilotis, it has common areas at ground level and a rooftop terrace with a pool.",
+        "renders_url": "https://int.design/fr/projet/projet-deux-montagnes/",
+        "source_url": "https://www.voirvert.ca/nouvelles/actualites/premiere-pelletee-terre-pour-le-projet-maupas-deux-montagnes"
+      }
+    ],
+    "plans": [
+      {
+        "name": "PPU de la Gare de Deux-Montagnes (adopted summer 2018)",
+        "by": "Ville de Deux-Montagnes",
+        "url": "https://www.ville.deux-montagnes.qc.ca/storage/app/media/ville-de-deux-montagnes/decouvrir-la-ville/nos-publications/bulletin-municipal-lexpress/2018-L_Express_FR_Automne-2018.pdf"
+      },
+      {
+        "name": "Plan d'urbanisme révisé (by-law 1732, in force April 2024)",
+        "by": "Ville de Deux-Montagnes",
+        "url": "https://www.ville.deux-montagnes.qc.ca/ville-de-deux-montagnes/amenagement-du-territoire/plan-durbanisme"
+      }
+    ],
+    "notes": "Maupas unit counts differ: 115 (Voir Vert, Portail Constructo, Construction Praxis), 112 (INT Design awards page) and 110 (L'Éveil, March 2026). 115 is used here. The city-wide figures also apply to Grand-Moulin. 'Jardins de la Gare' (Groupe Centra; 3-bedroom rentals, phases December 2026 and spring 2027) is advertised as two steps from the REM. Which station it serves could not be confirmed, so it was left out. The 2018 PPU link is the municipal bulletin announcing its adoption, not the PPU document itself."
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "station": "Édouard-Montpetit",
+    "area": "Outremont (Montréal), at the Université de Montréal campus",
+    "activity_level": "low",
+    "tagline": "Deepest station, campus front door",
+    "summary": "The station sits 70+ m below the Université de Montréal's mountain campus, in front of the Marie-Victorin pavilion, and links the REM to the metro Blue Line. The surroundings are institutional and heritage-protected, so the REM is reshaping the campus (faster links to the South Shore and West Island, pavilion renovations) rather than triggering new housing towers. The large MIL redevelopment lies about 1.5 km to the north and is better served by other stations.",
+    "headline_stats": [
+      {
+        "label": "UdeM Roger-Gaudry & Marie-Victorin renovation budget",
+        "value": "$390 million",
+        "source_url": "https://www.tresor.gouv.qc.ca/infrastructures-publiques/tableau-de-bord/201-p1"
+      },
+      {
+        "label": "Station depth",
+        "value": "70+ m",
+        "source_url": "https://nouvelles.umontreal.ca/article/2025/11/14/la-nouvelle-station-edouard-montpetit-et-ses-possibilites"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Roger-Gaudry and Marie-Victorin pavilions – reallocation of space",
+        "developer": "Université de Montréal (with the Société québécoise des infrastructures)",
+        "status": "under_construction",
+        "uses": ["institutional"],
+        "units": null,
+        "height": null,
+        "investment": "$390 million",
+        "timeline": "In construction since June 2022; full commissioning planned for March 2028 (pushed back from March 2026)",
+        "distance": "adjacent (Marie-Victorin pavilion faces the station entrance)",
+        "description": "Reconversion of space freed up after science departments moved to the MIL campus. The Marie-Victorin worksite is finished and has rehoused the schools of social work and psychoeducation, while work in Roger-Gaudry continues.",
+        "renders_url": "https://nouvelles.umontreal.ca/article/2026/09/01/prochains-chantiers-a-l-udem-la-modernisation-des-campus-se-poursuit",
+        "source_url": "https://www.tresor.gouv.qc.ca/infrastructures-publiques/tableau-de-bord/201-p1"
+      }
+    ],
+    "plans": [
+      {
+        "name": "Plan directeur d'aménagement du campus de la montagne (UdeM) – Conseil du patrimoine / CJV opinion",
+        "by": "Université de Montréal / Ville de Montréal",
+        "url": "http://applicatif.ville.montreal.qc.ca/som-fr/pdf_avis_cjv/pdfav21610.pdf"
+      }
+    ],
+    "as_of": "2026-11"
+  },
+  {
+    "station": "Canora",
+    "area": "Mont-Royal (Town of Mount Royal), on the Côte-des-Neiges border",
+    "activity_level": "medium",
+    "tagline": "Chemin Bates fills in",
+    "summary": "Canora sits on the Mount Royal side of the rail corridor, where the town keeps a low-density garden-city zoning and has blocked densification near its REM stations. Just across the tracks, on chemin Bates in Côte-des-Neiges (Glenmount), former commercial and industrial lots have been replaced by mid-rise rental and social housing marketed on their proximity to the station.",
+    "headline_stats": [
+      {
+        "label": "Homes in 4 new buildings on chemin Bates (permits 2020–2025)",
+        "value": "316",
+        "source_url": "https://donnees.montreal.ca/api/3/action/datastore_search?resource_id=5232a72d-235a-48eb-ae20-bb9d501300ad&q=Bates&filters=%7B%22code_type_base_demande%22%3A%22CO%22%2C%22description_categorie_batiment%22%3A%2212%20Logements%20%2B%22%7D&limit=100"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Le Mary-Florence (2655 chemin Bates)",
+        "developer": null,
+        "status": "under_construction",
+        "uses": ["residential"],
+        "units": 92,
+        "height": "6 storeys",
+        "investment": null,
+        "timeline": "Building permit Nov. 2025; occupancy from January 2027",
+        "distance": "~150 m (across from the station)",
+        "description": "Rental building with studios to three-bedroom apartments, a shared rooftop terrace overlooking the REM, indoor parking and secure bike storage, approved under special project PP-125.",
+        "renders_url": "https://lemaryflorence.com/",
+        "source_url": "https://donnees.montreal.ca/api/3/action/datastore_search?resource_id=5232a72d-235a-48eb-ae20-bb9d501300ad&q=3001896433"
+      },
+      {
+        "name": "Le3MIL (2805 chemin Bates)",
+        "developer": null,
+        "status": "completed",
+        "uses": ["residential"],
+        "units": 104,
+        "height": "6 storeys",
+        "investment": null,
+        "timeline": "Building permit Dec. 2020; now leasing",
+        "distance": "~200 m",
+        "description": "New-construction rental condos (one to three bedrooms) in the Glenmount sector, where Montréal, Mount Royal and Outremont meet, advertised as two minutes from the REM.",
+        "renders_url": "https://www.le3mil.com/",
+        "source_url": "https://donnees.montreal.ca/api/3/action/datastore_search?resource_id=5232a72d-235a-48eb-ae20-bb9d501300ad&q=3001239353"
+      },
+      {
+        "name": "Elora (2855 chemin Bates)",
+        "developer": null,
+        "status": "completed",
+        "uses": ["residential"],
+        "units": 89,
+        "height": "6 storeys plus mezzanine",
+        "investment": null,
+        "timeline": "Building permit May 2022; now leasing",
+        "distance": "~250 m",
+        "description": "Energy-efficient rental building (studios to three-bedroom units) marketed as two minutes from the REM station (downtown in 7 minutes) and close to the Acadie and Outremont metro stations.",
+        "renders_url": "https://www.eloramtl.com/fr",
+        "source_url": "https://donnees.montreal.ca/api/3/action/datastore_search?resource_id=5232a72d-235a-48eb-ae20-bb9d501300ad&q=3001527502"
+      },
+      {
+        "name": "2520 chemin Bates (HAPOPEX social housing)",
+        "developer": "HAPOPEX (non-profit), with ROMEL",
+        "status": "completed",
+        "uses": ["residential"],
+        "units": 31,
+        "height": "4 storeys",
+        "investment": null,
+        "timeline": "Building permit Feb. 2025; construction 2024–2026",
+        "distance": "~300 m",
+        "description": "AccèsLogis social housing (studios and one-bedroom units) for people at risk of homelessness, designed by Atelier Chaloub Architectes, on city land sold to the non-profit.",
+        "renders_url": "https://www.imtl.org/image.php?id=26154",
+        "source_url": "https://www.imtl.org/image.php?id=26154"
+      }
+    ],
+    "plans": [
+      {
+        "name": "Agglomeration land-use plan amendment integrating the REM and its TOD areas (incl. Mont-Royal density modulation)",
+        "by": "Agglomération de Montréal",
+        "url": "http://applicatif.ville.montreal.qc.ca/som-fr/pdf_avis/pdfav38284.pdf"
+      }
+    ],
+    "as_of": "2026-11"
+  },
+  {
+    "station": "Ville-de-Mont-Royal",
+    "area": "Mont-Royal (Town of Mount Royal)",
+    "activity_level": "low",
+    "tagline": "A deck park stitches downtown",
+    "summary": "The station is at the heart of Mount Royal's garden-city downtown, which the rail trench historically cut in two. The REM deal produced Place de la Gare, a public square built on a deck over the tracks, and the town is rebuilding its civic core next door. Residential densification is not on the table: the current council says it will not rezone for housing, and Les Affaires notes the town blocks densification around both of its REM stations.",
+    "headline_stats": [
+      {
+        "label": "Place de la Gare deck-park area",
+        "value": "2,100+ m²",
+        "source_url": "https://rem.info/fr/communiques/place-publique-VMR-REM"
+      },
+      {
+        "label": "New sports & community centre contract (taxes incl.)",
+        "value": "$89 million",
+        "source_url": "https://www.ville.mont-royal.qc.ca/fr/actualites/quartier-sportif-et-communautaire/octroi-du-contrat-de-construction-du-nouveau-centre-sportif-et-communautaire"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Place de la Gare (deck park over the REM)",
+        "developer": "Ville de Mont-Royal and CDPQ Infra",
+        "status": "completed",
+        "uses": ["park", "civic"],
+        "units": null,
+        "height": null,
+        "investment": "$6.5 million (Town contribution announced in 2019)",
+        "timeline": "Announced 2019; open since fall 2024",
+        "distance": "adjacent (between the Cornwall and Laird bridges, over the tracks)",
+        "description": "A public square on a slab over the REM tracks that reconnects the east and west halves of downtown Mount Royal, joined to the station entrance.",
+        "renders_url": "https://www.ville.mont-royal.qc.ca/fr/ma-ville/vivre-a-vmr/rem",
+        "source_url": "https://rem.info/fr/communiques/place-publique-VMR-REM"
+      },
+      {
+        "name": "Centre sportif et communautaire (CSC)",
+        "developer": "Ville de Mont-Royal (design-build: Équipe Sports et Communauté VMR – Groupe Geyser / Groupe Axor)",
+        "status": "under_construction",
+        "uses": ["civic"],
+        "units": null,
+        "height": null,
+        "investment": "$77 million ($89 million taxes incl.)",
+        "timeline": "Contract awarded April 2025; works started July 7, 2025 and run to the end of 2027",
+        "distance": "~300 m (between the town hall parking lot and the current recreation centre)",
+        "description": "New sports and community facility with a multi-pool indoor aquatic centre, a gymnasium, sports fields, classrooms, and offices and rooms open to the public.",
+        "renders_url": "https://www.ville.mont-royal.qc.ca/fr/actualites/quartier-sportif-et-communautaire/octroi-du-contrat-de-construction-du-nouveau-centre-sportif-et-communautaire",
+        "source_url": "https://www.ville.mont-royal.qc.ca/fr/actualites/quartier-sportif-et-communautaire/debut-officiel-des-travaux-du-csc"
+      },
+      {
+        "name": "30-40 Roosevelt (fire station and municipal offices)",
+        "developer": "Ville de Mont-Royal and Ville de Montréal",
+        "status": "under_construction",
+        "uses": ["civic"],
+        "units": null,
+        "height": "3 levels (40 Roosevelt)",
+        "investment": "$22.6 million ($26 million taxes incl.)",
+        "timeline": "Works began 2025 for about two years; wood structure going up in June 2026",
+        "distance": "~330 m",
+        "description": "A paired building with a new fire station at 30 Roosevelt (shared with the City of Montréal) and Town of Mount Royal municipal space at 40 Roosevelt, built with steel, concrete and wood structures.",
+        "renders_url": null,
+        "source_url": "https://www.ville.mont-royal.qc.ca/fr/ma-ville/vivre-a-vmr/grands-projets"
+      }
+    ],
+    "plans": [
+      {
+        "name": "Grands projets (CSC, 30-40 Roosevelt, PPU Beaumont; Rockland PPU lapsed, no Royalmount housing rezoning)",
+        "by": "Ville de Mont-Royal",
+        "url": "https://www.ville.mont-royal.qc.ca/fr/ma-ville/vivre-a-vmr/grands-projets"
+      },
+      {
+        "name": "Agglomeration land-use plan amendment integrating the REM and its TOD areas",
+        "by": "Agglomération de Montréal",
+        "url": "http://applicatif.ville.montreal.qc.ca/som-fr/pdf_avis/pdfav38284.pdf"
+      }
+    ],
+    "as_of": "2026-11"
+  },
+  {
+    "station": "Côte-de-Liesse",
+    "area": "Saint-Laurent (Montréal)",
+    "activity_level": "medium",
+    "tagline": "Québec's first industrial TOD",
+    "summary": "This new intermodal station (with the exo Mascouche line) opened in November 2025 in the Hodge-Lebeau industrial park, north of Highway 40, which has warehouses, labs and plants for 150+ companies. Instead of housing, Saint-Laurent's 2026 master plan proposes an \"industrial TOD\": densifying employment, adding a public square and a pedestrian and cycling footbridge at the station, and making streets safer for workers. The neighbouring Portes d'entrée plan targets mixed-use neighbourhoods further west.",
+    "headline_stats": [
+      {
+        "label": "Planned public square at the station",
+        "value": "≈ 6,000 m²",
+        "source_url": "https://montreal.ca/articles/le-premier-tod-industriel-du-quebec-dans-le-secteur-hodge-lebeau-saint-laurent-109673"
+      },
+      {
+        "label": "Companies in the Hodge-Lebeau sector",
+        "value": "150+",
+        "source_url": "https://montreal.ca/articles/le-premier-tod-industriel-du-quebec-dans-le-secteur-hodge-lebeau-saint-laurent-109673"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hodge-Lebeau innovation & mobility hub (station square and footbridge)",
+        "developer": "Arrondissement de Saint-Laurent (Ville de Montréal)",
+        "status": "proposed",
+        "uses": ["park", "office", "retail", "civic"],
+        "units": null,
+        "height": null,
+        "investment": null,
+        "timeline": "Plan unveiled May 2026; phased over two decades, horizon 2050",
+        "distance": "adjacent",
+        "description": "A planned hub around the station with a public square of about 6,000 m², an event and green space, a pedestrian and cycling footbridge over the rail line, and two buildings for business, retail and services, plus a reconfigured Hodge Street with protected bike lanes.",
+        "renders_url": "https://journalmetro.com/local/saint-laurent/3214447/saint-laurent-devoile-deux-plans-directeurs-pour-transformer-le-sud-de-son-terri/",
+        "source_url": "https://montreal.ca/articles/le-premier-tod-industriel-du-quebec-dans-le-secteur-hodge-lebeau-saint-laurent-109673"
+      }
+    ],
+    "plans": [
+      {
+        "name": "Plan directeur du secteur Hodge-Lebeau (industrial TOD)",
+        "by": "Arrondissement de Saint-Laurent (Ville de Montréal)",
+        "url": "https://montreal.ca/articles/le-premier-tod-industriel-du-quebec-dans-le-secteur-hodge-lebeau-saint-laurent-109673"
+      },
+      {
+        "name": "Plan directeur des Portes d'entrée (south Saint-Laurent, adjacent to the west)",
+        "by": "Arrondissement de Saint-Laurent (Ville de Montréal)",
+        "url": "https://montreal.ca/articles/entrer-saint-laurent-par-le-sud-nouvelle-vision-109674"
+      }
+    ],
+    "as_of": "2026-11"
+  },
+  {
+    "station": "Montpellier",
+    "area": "Saint-Laurent (Montréal)",
+    "activity_level": "medium",
+    "tagline": "Towers rise beside the platform",
+    "summary": "Montpellier is on boulevard de la Côte-Vertu in the Chameran area, between 1970s–2000s condo towers and low-rise commercial and industrial lots. In September 2026 Saint-Laurent gave final approval to a special project on the industrial site next to the station that allows up to 735 homes in buildings up to 18 storeys, with capped parking. Smaller infill rentals have already gone up nearby.",
+    "headline_stats": [
+      {
+        "label": "Max homes authorized on the site next to the station",
+        "value": "735",
+        "source_url": "http://applicatif.ville.montreal.qc.ca/som-fr/pdf_avis/pdfav41315.pdf"
+      },
+      {
+        "label": "Max height authorized",
+        "value": "18 storeys (61 m)",
+        "source_url": "http://applicatif.ville.montreal.qc.ca/som-fr/pdf_avis/pdfav41315.pdf"
+      }
+    ],
+    "projects": [
+      {
+        "name": "455 boulevard de la Côte-Vertu (\"REM Montpellier\" project)",
+        "developer": "Mondev (with Hillpark Capital, per project listings)",
+        "status": "approved",
+        "uses": ["residential", "retail"],
+        "units": 735,
+        "height": "up to 18 storeys (61 m)",
+        "investment": null,
+        "timeline": "First resolution Dec. 2025; final resolution in force Sept. 11, 2026",
+        "distance": "adjacent (the station's drop-off borders the site)",
+        "description": "Redevelopment of the property at Côte-Vertu and Jules-Poitras into residential buildings with light retail at ground level and at most 0.5 parking spaces per home, designed by ACDF. The 735 units are the maximum the resolution allows; project listings mention 600+ apartments, including 80 social units, built 2026–2028.",
+        "renders_url": "https://www.imtl.org/image.php?id=26201",
+        "source_url": "http://applicatif.ville.montreal.qc.ca/som-fr/pdf_avis/pdfav42592.pdf"
+      },
+      {
+        "name": "60 Place de la Côte-Vertu",
+        "developer": null,
+        "status": "completed",
+        "uses": ["residential"],
+        "units": 62,
+        "height": "6 storeys",
+        "investment": null,
+        "timeline": "Project started 2021",
+        "distance": "~750 m",
+        "description": "A LEED Silver-certified rental building by Atelier Chaloub Architectes, with a concrete structure, brick and metal cladding, and an underground garage of about sixty spaces.",
+        "renders_url": null,
+        "source_url": "https://www.module.ca/projet-unique/60-place-cote-vertu"
+      }
+    ],
+    "plans": [
+      {
+        "name": "Plan d'urbanisme amendment creating REM TOD areas in Saint-Laurent (Jules-Poitras sector) – CJV opinion",
+        "by": "Ville de Montréal / Arrondissement de Saint-Laurent",
+        "url": "http://applicatif.ville.montreal.qc.ca/som-fr/pdf_avis_cjv/pdfav21618.pdf"
+      },
+      {
+        "name": "Plan directeur des Portes d'entrée (extends west to boulevard Montpellier)",
+        "by": "Arrondissement de Saint-Laurent (Ville de Montréal)",
+        "url": "https://montreal.ca/articles/entrer-saint-laurent-par-le-sud-nouvelle-vision-109674"
+      }
+    ],
+    "as_of": "2026-11"
+  },
+  {
+    "station": "Du Ruisseau",
+    "area": "Saint-Laurent (Montréal)",
+    "activity_level": "low",
+    "tagline": "Henri-Bourassa starts to densify",
+    "summary": "Du Ruisseau replaced the old exo commuter-rail stop on boulevard Henri-Bourassa Ouest, in a mix of 1980s condo complexes, strip malls and light industry. Since the REM opened in November 2025, the strongest signal is along Henri-Bourassa toward Bois-Franc, where a 364-unit project won approval in 2026. A mixed-use redevelopment of a strip mall on O'Brien has been shown only as a concept.",
+    "headline_stats": [
+      {
+        "label": "Homes approved ~700 m west on Henri-Bourassa",
+        "value": "364",
+        "source_url": "https://www.portailconstructo.com/actualites/projet_residentiel_364_logements_prendra_forme_dans_bois_franc"
+      }
+    ],
+    "projects": [
+      {
+        "name": "4141 boulevard Henri-Bourassa Ouest",
+        "developer": "E. Khoury Construction",
+        "status": "approved",
+        "uses": ["residential"],
+        "units": 364,
+        "height": "three buildings of 8 to 10 storeys",
+        "investment": null,
+        "timeline": "Approved May 2026; construction planned Sept. 2026, delivery planned Dec. 2027",
+        "distance": "~700 m west (estimated; site is inside the Bois-Franc TOD area)",
+        "description": "Three LEED Silver-targeted rental buildings by NEUF architect(e)s along Henri-Bourassa, with 183 underground parking spaces, 560 bike spaces and about 1,005 m² of green roofs.",
+        "renders_url": "https://www.portailconstructo.com/actualites/projet_residentiel_364_logements_prendra_forme_dans_bois_franc",
+        "source_url": "https://www.portailconstructo.com/actualites/projet_residentiel_364_logements_prendra_forme_dans_bois_franc"
+      },
+      {
+        "name": "1805-1855 avenue O'Brien mixed-use redevelopment (concept)",
+        "developer": null,
+        "status": "proposed",
+        "uses": ["residential", "retail"],
+        "units": null,
+        "height": "3 to 6 storeys (nine buildings)",
+        "investment": null,
+        "timeline": null,
+        "distance": "~600 m",
+        "description": "A concept by ACT architecture design to replace a strip mall at O'Brien and Poirier with buildings of 3 to 6 storeys, ground-floor retail on O'Brien and townhouses in the centre of the block. No municipal approval has been found.",
+        "renders_url": "https://forum.agoramtl.com/t/o-brien-2-a-6-etages/6731",
+        "source_url": "https://forum.agoramtl.com/t/o-brien-2-a-6-etages/6731"
+      }
+    ],
+    "plans": [
+      {
+        "name": "Plan d'urbanisme amendment creating REM TOD areas in Saint-Laurent – CJV opinion",
+        "by": "Ville de Montréal / Arrondissement de Saint-Laurent",
+        "url": "http://applicatif.ville.montreal.qc.ca/som-fr/pdf_avis_cjv/pdfav21618.pdf"
+      }
+    ],
+    "as_of": "2026-11"
+  }
+]

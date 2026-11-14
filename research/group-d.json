@@ -1,0 +1,267 @@
+[
+  {
+    "station": "Marie-Curie",
+    "area": "Technoparc Montréal, Saint-Laurent",
+    "lat": 45.4800508,
+    "lon": -73.7602942,
+    "opened": null,
+    "summary": "An underground station in the heart of Technoparc Montréal, a science and technology park with 100+ companies and over 7,000 employees, surrounded by protected wetlands of the Parc-nature des Sources. It is not open yet: it will open together with the YUL-Aéroport-Montréal-Trudeau station, targeted for late 2027. The REM turns a car-dependent office/lab park into a transit-served employment hub, but development here is commercial/industrial and constrained by conservation, not residential.",
+    "activity": "low",
+    "stats": [
+      {"label": "Employees in Technoparc", "value": "7,000+ (100+ companies)", "source_url": "https://rem.info/en/travelling/stations/marie-curie"},
+      {"label": "Expected opening", "value": "Late 2027 (with airport station)", "source_url": "https://rem.info/fr/actualites/une-nouvelle-etape-franchie-pour-les-essais-vers-laeroport"},
+      {"label": "Natural land protected near station (Oct 2024)", "value": "11 ha", "source_url": "https://www.technoparcoiseaux.org/actualites/24-10-16-protection-hypertec"}
+    ],
+    "projects": [
+      {
+        "name": "Cologix MTL8 data centre",
+        "developer": "Cologix",
+        "status": "completed",
+        "uses": ["industrial"],
+        "units": null,
+        "floor_area": null,
+        "height": null,
+        "timeline": "In service as of March 2026; LEED Gold in 2025",
+        "cost": "CAD 240 million senior financing from La Caisse (March 2026)",
+        "description": "An AI-ready colocation data centre in Technoparc Montréal delivering 21 MW of capacity, powered by hydroelectricity. Its structure and envelope are complete and it is in service.",
+        "renders_url": "https://cologix.com/news/la-caisse-invests-cad-240-million-to-advance-cologixs-ai-ready-mtl8-data-centre-in-montreal/",
+        "source_url": "https://cologix.com/news/la-caisse-invests-cad-240-million-to-advance-cologixs-ai-ready-mtl8-data-centre-in-montreal/"
+      },
+      {
+        "name": "2400 Alfred-Nobel – Broccolini Corporate Centre 4 (BCC4)",
+        "developer": "Broccolini",
+        "status": "proposed",
+        "uses": ["office", "industrial"],
+        "units": null,
+        "floor_area": "±103,365 sq ft buildable on a ±182,000 sq ft lot",
+        "height": null,
+        "timeline": null,
+        "cost": null,
+        "description": "A development site in the heart of the Technoparc, zoned industrial/commercial and marketed as within walking distance of the future REM station; potential LEED Silver office/R&D building with rooftop terrace.",
+        "renders_url": "https://www.broccolini.com/fr/projet/2400-alfred-nobel",
+        "source_url": "https://www.broccolini.com/fr/projet/2400-alfred-nobel"
+      },
+      {
+        "name": "2700 Alfred-Nobel – Broccolini Corporate Centre 5 (BCC5)",
+        "developer": "Broccolini",
+        "status": "proposed",
+        "uses": ["office", "industrial"],
+        "units": null,
+        "floor_area": "Up to ±380,000 sq ft buildable on a ±645,333 sq ft site",
+        "height": null,
+        "timeline": null,
+        "cost": null,
+        "description": "A larger Technoparc site offered for industrial or commercial use, advertised as walking distance to the future REM station, with potential LEED Silver design.",
+        "renders_url": "https://www.broccolini.com/fr/projet/2700-alfred-nobel",
+        "source_url": "https://www.broccolini.com/fr/projet/2700-alfred-nobel"
+      }
+    ],
+    "plans": [
+      {"name": "Programme particulier d'urbanisme (PPU) du Technoparc Montréal", "by": "Ville de Montréal / Arrondissement de Saint-Laurent", "url": "https://ocpm.qc.ca/sites/default/files/pdf/P126/3-1-13-14_PPU_TechnoparcMontreal.pdf"},
+      {"name": "Modification au Plan d'urbanisme – stations du REM et aires TOD à Saint-Laurent (avis CJV)", "by": "Ville de Montréal / Comité Jacques-Viger", "url": "http://applicatif.ville.montreal.qc.ca/som-fr/pdf_avis_cjv/pdfav21618.pdf"}
+    ],
+    "notes": "Station not open as of Nov 2026: dynamic tests began Aug 8-9, 2026 and high-speed automatic tests reached Marie-Curie on Oct 17, 2026; opening (with the airport station, built by ADM) remains targeted for late 2027 (rem.info, Oct 22, 2026). Opening was originally announced for 2023. Construction briefly halted in late Oct 2026 when contractor NouvLR's RBQ licence was suspended; work resumed Oct 26, 2026 (CityNews/Canadian Press: https://montreal.citynews.ca/2026/10/26/construction-rem-station-airport-resumes/). The Broccolini sites are marketing listings, not announced projects; I could not confirm their exact walking distance (a JLL listing for a Broccolini lot at Marie-Curie/Alfred-Nobel said ±600 m from the station). Cologix MTL8 is in Technoparc but I did not verify its exact address relative to the station. Coordinates are from the OpenStreetMap node for the station under construction (node 7350710746); Wikipedia gives 45°28′46″N 73°45′36″W, which matches closely. No residential projects found: the Technoparc is an employment zone and much of the remaining land is being protected (Parc-nature des Sources)."
+  },
+  {
+    "station": "Des Sources",
+    "area": "Pointe-Claire / Dollard-des-Ormeaux / Dorval (boul. des Sources at A-40)",
+    "opened": "2026-05-18",
+    "summary": "A station on the A-40 at boulevard des Sources, where Pointe-Claire, Dorval and Dollard-des-Ormeaux meet. The area is mostly big-box retail (Mégacentre Des Sources), light industry and strip malls. The REM is triggering the first mid-rise rental buildings: a 393-unit complex is already built just north on Brunswick, and Pointe-Claire approved a 12-storey building on the Bar-B-Barn site in 2026.",
+    "activity": "medium",
+    "stats": [
+      {"label": "New rental homes (built + approved)", "value": "≈ 640 (393 + 249)", "source_url": "https://www.pcrecord.ca/2026-issues/october-2026-articles/council-highlights-september-8-2026"},
+      {"label": "Min. density in Sources MegaCentre TOD sector", "value": "300 homes / ha (net)", "source_url": "https://www.pointe-claire.ca/assets/images/Documents/PPCMOI_3300_SOURCES_2026-229_AP.pdf"}
+    ],
+    "projects": [
+      {
+        "name": "3300 boulevard des Sources (former Bar-B-Barn site)",
+        "developer": "CDP Developments (architect: NEUF architect(e)s)",
+        "status": "approved",
+        "uses": ["residential"],
+        "units": 249,
+        "floor_area": null,
+        "height": "12 storeys (39 m)",
+        "timeline": "First draft resolution April 7, 2026; final SCAOPI/PPCMOI resolution adopted Sept 8, 2026 (5–3 vote)",
+        "cost": null,
+        "description": "A 12-storey rental building replacing the Bar-B-Barn restaurant at the corner of Des Sources and Brunswick, inside the Des Sources REM TOD area, with about 10% of units meeting CMHC affordability criteria and ~221 parking spaces plus car-sharing.",
+        "renders_url": "https://forum.agoramtl.com/t/3300-boulevard-des-sources-12-etages/12752",
+        "source_url": "https://www.pointe-claire.ca/assets/images/Documents/PPCMOI_3300_SOURCES_2026-229_AP.pdf"
+      },
+      {
+        "name": "Westwalk Dollard-des-Ormeaux (Îlot Brunswick-Davignon)",
+        "developer": "Les propriétés Scalia / Devmont",
+        "status": "completed",
+        "uses": ["residential", "retail"],
+        "units": 393,
+        "floor_area": null,
+        "height": "8 to 13 storeys (3 buildings)",
+        "timeline": "Completed 2025; units available for immediate occupancy",
+        "cost": null,
+        "description": "Three rental buildings (130, 116 and 147 units) replacing a strip mall at Brunswick and Davignon, with rooftop pool, gym and coworking; the developer markets it as walking distance to the Des Sources REM station.",
+        "renders_url": "https://scalia.ca/projet/westwalk-dollard-des-ormeaux/",
+        "source_url": "https://forum.agoramtl.com/t/westwalk-8-a-13-etages-2025/3173"
+      }
+    ],
+    "plans": [
+      {"name": "Pointe-Claire Planning Programme (consolidated Aug 2025)", "by": "Ville de Pointe-Claire", "url": "https://www.pointe-claire.ca/assets/images/Documents/Planning-Program-2025-08-22.pdf"},
+      {"name": "Dollard-des-Ormeaux Urban Planning Program (Des Sources TOD area)", "by": "Ville de Dollard-des-Ormeaux", "url": "https://ville.ddo.qc.ca/wp-content/uploads/2025/03/Urban-Planning-Program_March-11-2025_Final.pdf"}
+    ],
+    "notes": "The 3300 Des Sources renders come from an Agora Montréal forum page (enthusiast site, not official); no official project page found. Before permits are issued it still needs DDO's sign-off on infrastructure and a City–developer affordability agreement, and the City of Montréal executive committee approved its conformity on Oct 7, 2026. Sources disagree on Westwalk DDO's height: Agora lists 13/8/8 storeys, while adresses.ca says 11 storeys. The 393-unit total is consistent across sources. Westwalk is in DDO, a few hundred metres north of the station; I did not measure the exact walking distance. Pointe-Claire's new urban plan is expected by end-2026 or early 2027."
+  },
+  {
+    "station": "Fairview–Pointe-Claire",
+    "area": "Pointe-Claire city centre (CF Fairview Pointe-Claire) / east Kirkland",
+    "opened": "2026-05-18",
+    "summary": "The station sits next to CF Fairview Pointe-Claire, the West Island's main shopping mall, and its bus terminal. The city's 2017-2018 City Centre SPP designated the area for transit-oriented densification. The flagship proposal, Cadillac Fairview's towers on the mall parking lot, has been frozen since 2022 by Pointe-Claire's interim control by-law and is tied up in court along with the contested Fairview Forest. Nearby, Prével's Village Lacey Green in Kirkland is under construction, and a 361-unit Westwalk rental project is rising on Saint-Jean.",
+    "activity": "medium",
+    "stats": [
+      {"label": "Homes planned at Village Lacey Green", "value": "≈ 1,100", "source_url": "https://tgta.ca/en/accomplishments/village-lacey-green"},
+      {"label": "Homes in Cadillac Fairview phase 1 (frozen)", "value": "880 (445 rental + 435 seniors)", "source_url": "https://globalnews.ca/news/8641238/cadillac-fairview-shopping-centre-housing-plans-unveiled/"},
+      {"label": "Mall parking spaces to be converted (proposal)", "value": "900", "source_url": "https://www.projet-pointe-claire.com/the-project"}
+    ],
+    "projects": [
+      {
+        "name": "Village Lacey Green (former Charles-E.-Frosst / Merck Frosst site)",
+        "developer": "Prével and TGTA",
+        "status": "under_construction",
+        "uses": ["residential", "park"],
+        "units": 1100,
+        "floor_area": "≈1.6 million sq ft site",
+        "height": "Up to 12 storeys near the REM station",
+        "timeline": "Construction began late 2025 (first 9-storey rental building); build-out could take ~10 years",
+        "cost": null,
+        "description": "A new neighbourhood south of Brunswick Blvd in Kirkland with about 950 condos/rentals, 111 townhouses and 47 single-family lots, plus five parks and bike paths, about 500 m west of the Fairview–Pointe-Claire station. It includes no social or affordable housing.",
+        "renders_url": "https://www.villagelaceygreen-prevel.ca/fr/",
+        "source_url": "https://globalnews.ca/news/11549493/major-housing-project-montreal-rem/"
+      },
+      {
+        "name": "CF Fairview Pointe-Claire parking-lot redevelopment (phase 1)",
+        "developer": "Cadillac Fairview",
+        "status": "proposed",
+        "uses": ["residential", "retail", "park"],
+        "units": 880,
+        "floor_area": "50,000 sq ft public plaza",
+        "height": "Two 25-storey rental towers and a 20-storey seniors' residence",
+        "timeline": "SPAIP application filed July 2021; frozen by interim control by-law since Feb 2022; litigation ongoing",
+        "cost": null,
+        "description": "Plans to turn 900 surface parking spaces on the mall lot into two rental towers (445 units), a seniors' residence (435 units), a 4-storey parking deck and a Claude Cormier-designed public plaza linked to the REM station.",
+        "renders_url": "https://www.projet-pointe-claire.com/the-project",
+        "source_url": "https://www.projet-pointe-claire.com/the-project"
+      },
+      {
+        "name": "Westwalk Pointe-Claire",
+        "developer": "Les propriétés Scalia / Devmont",
+        "status": "under_construction",
+        "uses": ["residential"],
+        "units": 361,
+        "floor_area": null,
+        "height": "Two 12-storey buildings",
+        "timeline": "Occupancy from April 2027",
+        "cost": null,
+        "description": "A two-phase luxury rental project at Saint-Jean Blvd and Labrosse Ave, south of the Fairview mall. The developer markets it as walking distance to the Fairview–Pointe-Claire REM station.",
+        "renders_url": "https://westwalk.ca/appartements-a-louer-pointe-claire/",
+        "source_url": "https://forum.agoramtl.com/t/westwalk-pointe-claire-2-12-etages/8288"
+      },
+      {
+        "name": "Fairview Forest (zone Mu2) – \"West Island downtown\" development",
+        "developer": "Cadillac Fairview",
+        "status": "proposed",
+        "uses": ["residential", "retail", "hotel", "office"],
+        "units": null,
+        "floor_area": null,
+        "height": "Current 2017-18 zoning could allow up to 27 storeys (per Pointe-Claire council minutes)",
+        "timeline": "Frozen by Pointe-Claire and CMM interim control by-laws since 2022; court cases ongoing",
+        "cost": null,
+        "description": "Cadillac Fairview's long-term plan for the ~43-acre wooded lot west of the mall. The advocacy group MARE says the October 2020 proposal included about 5,000 condos, businesses and hotels. Residents have protested every Saturday since 2020 (300th protest in Aug 2026) to save the forest.",
+        "renders_url": "https://www.projet-pointe-claire.com/the-project",
+        "source_url": "https://www.pcrecord.ca/2025-issues/february-2025-articles/just-the-facts-an-update-on-mu1-mu2"
+      }
+    ],
+    "plans": [
+      {"name": "Special Planning Program (SPP/PPU) for the City Centre (2017-2018)", "by": "Ville de Pointe-Claire", "url": "https://www.pointe-claire.ca/en/municipal-organization/news-and-media/news/cadillac-fairview-development-project-following-the-arrival-of-the-rem"},
+      {"name": "Pointe-Claire Planning Programme (consolidated Aug 2025)", "by": "Ville de Pointe-Claire", "url": "https://www.pointe-claire.ca/assets/images/Documents/Planning-Program-2025-08-22.pdf"},
+      {"name": "Vision for the Charles-E. Frosst Site", "by": "Ville de Kirkland", "url": "https://www.ville.kirkland.qc.ca/municipal-profile/major-development-projects/charlesefrosst-en"}
+    ],
+    "notes": "Cadillac Fairview status: as of Feb 2025 its court challenges against Pointe-Claire (Mu1 and Mu2) and the CMM (Mu2) were unresolved. In Jan 2026 the Court of Québec upheld a citizen's access-to-information win against Cadillac Fairview. I found no 2026 report that the freeze on the mall lot has been lifted. Pointe-Claire's new urban plan is expected by end-2026 or early 2027 (Council, Sept 8, 2026). The Fairview Forest unit count (≈5,000 condos) comes only from an advocacy group (MARE, https://mouvementmare.org/nos-campagnes-daction/appui-sauvons-la-foret-fairview/); I did not see it on an official page. Its renders link goes to Cadillac Fairview's parking-lot project site, since there is no public Mu2 render page. Lacey Green unit counts vary by source: ~1,100 (TGTA), ~1,200 (RENX), and 950 + 111 + 47 (Global News, Nov 2025). TGTA's page says the site is next to the 'Kirkland REM station', but Prével and Global News place it near Fairview–Pointe-Claire, which matches the geography. Westwalk Pointe-Claire's renders page is a leasing site, and its walking distance to the station is my estimate (~1 km, unverified)."
+  },
+  {
+    "station": "Kirkland",
+    "area": "Kirkland (Centre RioCan Kirkland, rue Jean-Yves / chemin Sainte-Marie)",
+    "opened": "2026-05-18",
+    "summary": "The highest station on the REM, about 24 m above ground. It sits beside the A-40 at the south edge of the aging Centre RioCan Kirkland strip mall and next to single-family neighbourhoods; the TOD zone currently averages only about 6 homes per hectare. In 2025 Kirkland adopted a station-area special planning program (PPU) and rezoned the 15.5 ha RioCan site for a mixed-use district of 6-14 storey buildings near the station. No construction has been announced yet.",
+    "activity": "medium",
+    "stats": [
+      {"label": "Housing capacity on RioCan site (PPU)", "value": "929 – 1,858 homes", "source_url": "https://www.ville.kirkland.qc.ca/client_file/upload/Avis%20publics%202025/90-54-11_EN.pdf"},
+      {"label": "Current density in station TOD zone", "value": "6.2 homes / ha (≈1,955 homes)", "source_url": "https://www.ville.kirkland.qc.ca/client_file/upload/Avis%20publics%202025/90-54-11_EN.pdf"},
+      {"label": "REM parking reserved for Kirkland residents", "value": "≈ 200 spaces", "source_url": "https://www.ville.kirkland.qc.ca/client_file/upload/Avis%20publics%202025/90-54-11_EN.pdf"}
+    ],
+    "projects": [
+      {
+        "name": "Centre RioCan Kirkland redevelopment",
+        "developer": "RioCan REIT and Broccolini (50/50 joint venture)",
+        "status": "approved",
+        "uses": ["residential", "retail", "office", "park"],
+        "units": null,
+        "floor_area": "≈2.8 million sq ft GFA envisioned (2020-21 announcement); site ≈15.5 ha",
+        "height": "1-6 storeys to the north, 4-10 in the middle, 6-14 next to the REM station",
+        "timeline": "PPU adopted July 2025, in force Nov 2025; site rezoned (zones UM-103 to UM-105) in 2025; multi-phase, ~10-year build-out",
+        "cost": null,
+        "description": "A planned phased conversion of the RioCan strip mall and Cineplex site into a mixed-use TOD neighbourhood with rental apartments, shops, offices, a central plaza and a 200-space lot for Kirkland residents. Building heights step up toward the A-40 and the station.",
+        "renders_url": "https://www.renx.ca/broccolini-consider-return-roots-rental-housing-development",
+        "source_url": "https://www.ville.kirkland.qc.ca/client_file/upload/Avis%20publics%202025/90-54-11_EN.pdf"
+      }
+    ],
+    "plans": [
+      {"name": "Special Planning Program \"REM Station – Town of Kirkland\" (By-law 90-54-11)", "by": "Ville de Kirkland", "url": "https://www.ville.kirkland.qc.ca/client_file/upload/Avis%20publics%202025/90-54-11_EN.pdf"},
+      {"name": "Le REM à Kirkland (station info, parking)", "by": "Ville de Kirkland", "url": "https://www.ville.kirkland.qc.ca/portrait-municipal/rem"}
+    ],
+    "notes": "The PPU sets planning capacity, not a confirmed unit count. Broccolini said in 2020-21 that at least 1,000 homes were possible, and in July 2024 it expected construction could start in 2025 once zoning was final. I found no evidence of construction starting by Nov 2026, so status 'approved' refers only to the zoning/PPU framework. There is no official render page; the renders link is a RENX article showing a RioCan image of the proposal. The adoption table in By-law 90-54-11 lists adoption on July 7, 2025, and a certificate of compliance and coming into force on Nov 3, 2025. Sotramont's Livéo Kirkland (7 storeys, rental, at Saint-Charles / Sainte-Marie, under construction in 2026) is in Kirkland but roughly a 30-40 minute walk from the station, so I left it out. A planned footbridge over the A-40 to the Grand parc de l'Ouest and a bus/active-transport corridor on the old A-440 right-of-way are mentioned on Wikipedia, citing the Gazette and CTV, but I did not verify their current status."
+  },
+  {
+    "station": "Anse-à-l'Orme",
+    "area": "Sainte-Anne-de-Bellevue (chemin Sainte-Marie, near Senneville / Grand parc de l'Ouest)",
+    "opened": "2026-05-18",
+    "summary": "The western terminus of the REM, a ground-level station on chemin Sainte-Marie with a bus terminal, a 200-space park-and-ride and the West Island maintenance centre. Its main role is access to nature: it is the gateway to the Anse-à-l'Orme nature park and the 3,100-ha Grand parc de l'Ouest, Canada's largest municipal park. Nearby urban development is limited to a long-term eco-employment and housing plan for Sainte-Anne-de-Bellevue's Secteur Nord.",
+    "activity": "low",
+    "stats": [
+      {"label": "Grand parc de l'Ouest area", "value": "3,100+ ha", "source_url": "https://montreal.ca/en/articles/grand-parc-de-louest-preserving-nature-city-all-to-enjoy-34237"},
+      {"label": "Planned park investment by 2033", "value": "$84.3 million", "source_url": "https://ici.radio-canada.ca/info/long-format/2185197/grand-parc-ouest-valerie-plante-connectivite-ecologique"},
+      {"label": "Secteur Nord plan: employment / residential land", "value": "43 ha / 25 ha", "source_url": "https://provencherroy.ca/projets/sainte-anne-de-bellevue"}
+    ],
+    "projects": [
+      {
+        "name": "Grand sentier de l'Ouest – Anse-à-l'Orme sector (Grand parc de l'Ouest)",
+        "developer": "Ville de Montréal",
+        "status": "completed",
+        "uses": ["park"],
+        "units": null,
+        "floor_area": null,
+        "height": null,
+        "timeline": "New trails inaugurated 2025; further park investments planned through 2033",
+        "cost": "$84.3M planned for the Grand parc de l'Ouest by 2033",
+        "description": "A trail of about 3 km from the REM station through mature woods and farmland, linking Anse-à-l'Orme to Cap-Saint-Jacques. It is open to walkers and cyclists in summer and skiers and snowshoers in winter. It is one of eight priority Grand parc de l'Ouest projects.",
+        "renders_url": "https://montreal.ca/en/articles/grand-parc-de-louest-preserving-nature-city-all-to-enjoy-34237",
+        "source_url": "https://ici.radio-canada.ca/info/long-format/2185197/grand-parc-ouest-valerie-plante-connectivite-ecologique"
+      },
+      {
+        "name": "Secteur Nord eco-employment district (PPU Secteur Nord)",
+        "developer": "Ville de Sainte-Anne-de-Bellevue (concept by Provencher_Roy)",
+        "status": "proposed",
+        "uses": ["office", "industrial", "residential", "park"],
+        "units": null,
+        "floor_area": "Planning site ≈275,186 m²",
+        "height": null,
+        "timeline": "PPU adopted Nov 2018; traffic study treats build-out as a 10+ year horizon",
+        "cost": null,
+        "description": "A plan for the last large vacant lands north of the A-40, next to the REM terminus. It envisions a high-tech and R&D employment park (43 ha) beside the station and housing (25 ha), organized around the Rivière à l'Orme forest corridor.",
+        "renders_url": "https://provencherroy.ca/projets/sainte-anne-de-bellevue",
+        "source_url": "https://www.ville.sainte-anne-de-bellevue.qc.ca/client_file/upload/Projets%20de%20r%C3%A8glements/Sept%2013/PR863_-_PLAN_DURBANISME.pdf"
+      }
+    ],
+    "plans": [
+      {"name": "Draft Plan d'urbanisme PR-863 (renews PPU Secteur Nord and PPU Anciens-Combattants)", "by": "Ville de Sainte-Anne-de-Bellevue", "url": "https://www.ville.sainte-anne-de-bellevue.qc.ca/client_file/upload/Projets%20de%20r%C3%A8glements/Sept%2013/PR863_-_PLAN_DURBANISME.pdf"},
+      {"name": "Stratégie de mise en valeur du Grand parc de l'Ouest (to 2050)", "by": "Ville de Montréal", "url": "http://applicatif.ville.montreal.qc.ca/som-fr/pdf_avis_cjv/pdfav21676.pdf"}
+    ],
+    "notes": "Little real-estate activity here: no specific private development projects near the station turned up. The Provencher_Roy concept (2019) was a competition proposal, so it may not reflect current intentions. French Wikipedia, citing a CIMA+ traffic study, says the Secteur Nord PPU plans about 270 homes, 35,000 sq ft of retail and 450,000 sq ft of offices; I did not see those numbers in a primary source. I did not confirm whether draft urban plan PR-863 (public consultation notice Sept 2024) has been formally adopted. The Montréal page says a new trail from the Anse-à-l'Orme entrance runs to Cap-Saint-Jacques; the '≈3 km from the station' figure comes from Radio-Canada (Aug 2025). The nearby Cap-Nature housing project in Pierrefonds-Ouest was dropped in favour of the park, and its developers are suing for ≈$180M (Radio-Canada)."
+  }
+]

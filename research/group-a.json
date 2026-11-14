@@ -1,0 +1,439 @@
+[
+  {
+    "station": "Brossard",
+    "area": "Brossard (Rive-Sud)",
+    "opened": "2023-07-31",
+    "summary": "The South Shore terminus sits at the junction of Highways 10 and 30 and is built as a regional transfer hub: a large park-and-ride and a 21-bay bus terminal that replaced the old Chevrier terminus. The City deliberately planned no real-estate development around this station, prioritising protection of the Bois de Brossard and its future Bioparc; the big REM-driven growth is happening one stop north at Du Quartier.",
+    "activity": "low",
+    "stats": [
+      {
+        "label": "Park-and-ride spaces",
+        "value": "≈ 3,000",
+        "source_url": "https://rem.info/fr/node/216"
+      },
+      {
+        "label": "Bus terminal bays",
+        "value": "21",
+        "source_url": "https://rem.info/fr/node/216"
+      }
+    ],
+    "projects": [],
+    "plans": [],
+    "notes": "No development projects found around Brossard station. FM103,3 (Aug 2023) quotes the deputy mayor saying no real-estate development was planned there, to protect the Bois de Brossard and develop the Bioparc. The rem.info page returned 403 to the fetch tool, so the parking and bus-bay figures come verbatim from search-result text for that rem.info page. Source for 'no development': https://www.fm1033.ca/rem-un-nouveau-virage-immobilier-et-environnemental-pour-brossard/. Opening date source: https://www.newswire.ca/news-releases/mise-en-service-du-rem-884935017.html"
+  },
+  {
+    "station": "Du Quartier",
+    "area": "Brossard (Rive-Sud)",
+    "opened": "2023-07-31",
+    "summary": "Facing Quartier DIX30 across Highway 10, this station connects by footbridge directly into Solar Uniquartier, Devimco's TOD district of condo and rental towers, offices, a hotel and university campuses. Roughly 2,600 homes are already built there, more towers are rising, and in 2026 the City approved a further 'Solar 2' phase of up to 1,500 homes along boulevard du Quartier.",
+    "activity": "high",
+    "stats": [
+      {
+        "label": "Homes planned at Solar Uniquartier",
+        "value": "4,300+",
+        "source_url": "https://solaruniquartier.com/le-projet/"
+      },
+      {
+        "label": "Homes already built at Solar Uniquartier",
+        "value": "≈ 2,600",
+        "source_url": "https://devimco.com/mise-en-service-du-rem-a-solar-uniquartier/"
+      },
+      {
+        "label": "Office space planned at Solar Uniquartier",
+        "value": "600,000+ sq ft",
+        "source_url": "https://solaruniquartier.com/le-projet/"
+      },
+      {
+        "label": "Additional homes approved (Solar 2, 2026)",
+        "value": "up to 1,500",
+        "source_url": "https://www.fm1033.ca/le-concept-solar-2-est-approuve-a-brossard/"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Solar Uniquartier",
+        "developer": "Groupe Devimco (with Fonds immobilier de solidarité FTQ and Fondaction)",
+        "status": "under_construction",
+        "uses": ["residential", "office", "retail", "hotel", "institutional", "park"],
+        "units": 4300,
+        "floor_area": "500,000+ sq ft retail and 600,000+ sq ft office",
+        "height": null,
+        "timeline": null,
+        "cost": "$3B at completion (over $1B invested so far)",
+        "description": "Québec's largest mixed-use TOD district, connected directly to the REM station, with condos and rental towers, offices, a 184-room hotel and conference centre, a 12,000 m² central park, and Université de Montréal and Institut Teccart campuses. About 2,600 homes were built by the time the REM opened.",
+        "renders_url": "https://solaruniquartier.com/le-projet/",
+        "source_url": "https://devimco.com/mise-en-service-du-rem-a-solar-uniquartier/"
+      },
+      {
+        "name": "Cosma Appartements (Solar Uniquartier)",
+        "developer": "Groupe Devimco",
+        "status": "under_construction",
+        "uses": ["residential"],
+        "units": 280,
+        "floor_area": null,
+        "height": "19 storeys",
+        "timeline": "Delivery planned February 2027",
+        "cost": null,
+        "description": "Devimco's fifth rental building in Solar Uniquartier, near the Du Quartier station, with some affordable units, a gym, rooftop terrace and coworking rooms. Launched in August 2026.",
+        "renders_url": "https://www.portailconstructo.com/actualites/groupe_devimco_lance_nouveau_projet_residentiel_brossard",
+        "source_url": "https://www.portailconstructo.com/actualites/groupe_devimco_lance_nouveau_projet_residentiel_brossard"
+      },
+      {
+        "name": "Solar 2 du parc des Étoiles",
+        "developer": null,
+        "status": "approved",
+        "uses": ["residential", "park"],
+        "units": 1500,
+        "floor_area": null,
+        "height": "six buildings of 10, 12, 14 and 20 storeys",
+        "timeline": null,
+        "cost": null,
+        "description": "A residential concept for up to 1,500 homes on 11 lots along boulevard du Quartier, approved by Brossard council in July 2026. The developer must cede nearly 5,000 m² for parks and pay for the extension of rue Lapinière.",
+        "renders_url": null,
+        "source_url": "https://www.fm1033.ca/le-concept-solar-2-est-approuve-a-brossard/"
+      },
+      {
+        "name": "Éco-Quartier de la Gare",
+        "developer": "Trigone (now Espaces Lokalia)",
+        "status": "completed",
+        "uses": ["residential", "park"],
+        "units": 1400,
+        "floor_area": null,
+        "height": "2½ to 8 storeys",
+        "timeline": null,
+        "cost": null,
+        "description": "A neighbourhood of about 1,400 homes in multi-unit buildings along boulevard du Quartier at rue de Châteauneuf, roughly 800 m north-east of the station, with bike paths, trails and EV charging.",
+        "renders_url": "https://brossard.ca/grands-projets-et-chantiers/eco-quartier-de-la-gare/",
+        "source_url": "https://brossard.ca/grands-projets-et-chantiers/eco-quartier-de-la-gare/"
+      }
+    ],
+    "plans": [],
+    "notes": "Solar Uniquartier's total home count differs between sources: the official site says 4,300+, Devimco's sales director spoke of 6,500–7,000 in a podcast, and FM103,3 (2023) cited 6,000; the official 4,300+ figure is used. The investment figure also varies: the official site says $1.5B, while Devimco's own news page says $3B at completion. The City of Brossard lists Éco-Quartier de la Gare as 'Terminé' (updated July 2025), but its September 2026 roadworks notice shows Espaces Lokalia still finishing streets, and a forum post says not every phase is built. FM103,3 does not name the developer of 'Solar 2'. The roughly 800 m distance for Éco-Quartier de la Gare comes from OpenStreetMap geocoding."
+  },
+  {
+    "station": "Panama",
+    "area": "Brossard (Rive-Sud)",
+    "opened": "2023-07-31",
+    "summary": "Panama sits in the middle of Highway 10 beside the South Shore's busiest bus terminal, Mail Champlain and acres of parking. Brossard adopted a PPU in 2024 to build a brand-new downtown here, with a potential 12,000 homes. The first 30-storey tower (Prével/TGTA) was approved in November 2025, but in July 2026 La Caisse indefinitely suspended its financing and construction did not start this fall.",
+    "activity": "medium",
+    "stats": [
+      {
+        "label": "Housing potential of the new downtown",
+        "value": "≈ 12,000 homes",
+        "source_url": "https://brossard.ca/en/news/brossard-begins-implementing-its-vision-for-a-dynamic-and-innovative-downtown-area/"
+      },
+      {
+        "label": "Homes in the Prével/TGTA project",
+        "value": "≈ 1,800",
+        "source_url": "https://brossard.ca/en/news/brossard-begins-implementing-its-vision-for-a-dynamic-and-innovative-downtown-area/"
+      },
+      {
+        "label": "Planned budget (seven towers)",
+        "value": "$1.2B",
+        "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-07-28/brossard/les-tours-de-logements-pres-du-rem-en-eaux-troubles.php"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Panama Brossard (TOD Panama), Prével/TGTA",
+        "developer": "Prével and TGTA (La Caisse as financial partner)",
+        "status": "approved",
+        "uses": ["residential", "office", "retail", "park"],
+        "units": 1776,
+        "floor_area": null,
+        "height": "first tower 30 storeys (325 apartments on a 5-storey retail/office podium); seven towers in total",
+        "timeline": "First tower approved Nov 2025; start postponed indefinitely (July 2026)",
+        "cost": "≈ $200M first tower; $1.2B for all seven towers",
+        "description": "The first project of Brossard's new downtown, next to the REM station and Panama terminus at avenue Panama and rue Philippines. Plans include seven rental towers, offices, shops and 5,000 m² of parks. In July 2026 La Caisse indefinitely suspended its financing, and the City confirmed construction would not start that fall.",
+        "renders_url": "https://brossard.ca/en/news/brossard-begins-implementing-its-vision-for-a-dynamic-and-innovative-downtown-area/",
+        "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-07-28/brossard/les-tours-de-logements-pres-du-rem-en-eaux-troubles.php"
+      }
+    ],
+    "plans": [
+      {
+        "name": "Plan particulier d'urbanisme (PPU) du centre-ville de Brossard (secteur TOD Panama)",
+        "by": "Ville de Brossard",
+        "url": "https://brossard.ca/grands-projets-et-chantiers/centre-ville-de-brossard/"
+      }
+    ],
+    "notes": "The home count for the Prével/TGTA project varies: 1,776 in the City's June 2024 site-plan approval, 'around 1,800' in the City's November 2025 news item, 1,805 per La Presse, and 'more than 730' on TGTA's older project page. Status is 'approved' but effectively on hold. Approval source: https://brossard.ca/en/news/first-project-approved-in-the-heart-of-brossards-future-downtown-core/. Developer page: https://tgta.ca/fr/realisations/tod-panama"
+  },
+  {
+    "station": "Île-des-Sœurs",
+    "area": "Verdun – L'Île-des-Sœurs (Montréal)",
+    "opened": "2023-07-31",
+    "summary": "At the foot of the new Samuel-De Champlain Bridge, the island's north end mixes the riverside Pointe-Nord tower district with an older office and retail strip around Place du Commerce. Montréal's 2020 PPU aims to turn the area into a true REM TOD hub. The last Pointe-Nord tower is under construction, and the 563-unit Le Flore broke ground in July 2026, replacing a parking lot with a pedestrian link to the station.",
+    "activity": "high",
+    "stats": [
+      {
+        "label": "Rental units under construction (Le Flore + Evolo FLEX)",
+        "value": "877",
+        "source_url": "https://exploreverdunids.com/premiere-pelletee-de-terre-pour-le-flore-a-lile-des-soeurs/"
+      },
+      {
+        "label": "Homes approved in Cité de l'Île",
+        "value": "1,221",
+        "source_url": "https://www.aprids.ca/cite-de-lile"
+      },
+      {
+        "label": "Economic floor space targeted by the PPU",
+        "value": "up to 120,000 m²",
+        "source_url": "https://montreal.ca/articles/programme-particulier-durbanisme-aux-abords-de-la-station-ile-des-soeurs-du-rem-104870"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Le Flore (8 Place du Commerce)",
+        "developer": "Groupe MACH, Pur Immobilia and Groupe Ducan",
+        "status": "under_construction",
+        "uses": ["residential", "park"],
+        "units": 563,
+        "floor_area": null,
+        "height": null,
+        "timeline": "Groundbreaking July 2026; first occupants 2028",
+        "cost": null,
+        "description": "Two rental buildings, including family units, on a former heat-island parking lot steps from the REM station. A large garden and a pedestrian and cycling link will connect Place du Commerce to the station.",
+        "renders_url": "https://www.purimmobilia.com/projet/leflore/",
+        "source_url": "https://exploreverdunids.com/premiere-pelletee-de-terre-pour-le-flore-a-lile-des-soeurs/"
+      },
+      {
+        "name": "Evolo FLEX (Quartier Pointe-Nord)",
+        "developer": "Corporation Proment",
+        "status": "under_construction",
+        "uses": ["residential"],
+        "units": 314,
+        "floor_area": null,
+        "height": "26 storeys",
+        "timeline": "Groundbreaking Oct 2025; delivery summer 2027",
+        "cost": "$150M",
+        "description": "The final tower of Proment's LEED-ND Gold Pointe-Nord eco-district and its only rental building. It is also the Pointe-Nord tower closest to the REM station. Pointe-Nord already houses about 2,600 residents in roughly 1,700 homes.",
+        "renders_url": "http://proment.com/fr/evolo-flex/",
+        "source_url": "https://www.newswire.ca/news-releases/proment-launches-the-final-phase-of-the-pointe-nord-eco-neighbourhood-with-the-start-of-construction-of-the-evolo-flex-tower-314-rental-units-just-steps-from-the-rem-852241058.html"
+      },
+      {
+        "name": "Cité de l'Île",
+        "developer": "Lachance Immobilier (with Fonds immobilier de solidarité FTQ)",
+        "status": "approved",
+        "uses": ["residential", "retail", "hotel", "office"],
+        "units": 1221,
+        "floor_area": null,
+        "height": "four buildings, tallest about 25 storeys",
+        "timeline": null,
+        "cost": null,
+        "description": "A four-building mixed-use complex on Place du Commerce and rue Levert, approved by Verdun in 2023. It includes seniors' housing, a hotel, shops, land for social housing and a public promenade to the REM station. The building permit was still pending, and the borough described progress as slow in 2026.",
+        "renders_url": "https://www.aprids.ca/cite-de-lile",
+        "source_url": "https://www.aprids.ca/cite-de-lile"
+      },
+      {
+        "name": "Mille Levert and 16 Place du Commerce",
+        "developer": "Lachance Immobilier",
+        "status": "completed",
+        "uses": ["residential", "retail"],
+        "units": 454,
+        "floor_area": null,
+        "height": null,
+        "timeline": null,
+        "cost": null,
+        "description": "The first phases of the Lachance site next to the station: a new condo building at 1000 rue Levert (312 homes) and an office building at 16 Place du Commerce converted into 142 rental units.",
+        "renders_url": "https://www.lachanceimmobilier.ca/projet-en-cours-en",
+        "source_url": "https://www.aprids.ca/post/l-%C3%AEle-des-s%C5%93urs-un-quartier-en-pleine-transformation"
+      }
+    ],
+    "plans": [
+      {
+        "name": "Programme particulier d'urbanisme (PPU) de la partie nord de L'Île-des-Sœurs (aire TOD de la station Île-des-Sœurs)",
+        "by": "Ville de Montréal / Arrondissement de Verdun",
+        "url": "https://montreal.ca/articles/programme-particulier-durbanisme-aux-abords-de-la-station-ile-des-soeurs-du-rem-104870"
+      }
+    ],
+    "notes": "Le Flore is listed at 563 units in two buildings (Groupe MACH and press), while Pur Immobilia's page says 580 apartments in two phases; 563 is used. The 877 stat is 563 + 314. Cité de l'Île's status comes from residents' association (APRIDS) pages, plus a June 2026 Explore Verdun article saying that borough projects including Cité de l'Île were moving slowly (https://exploreverdunids.com/demolition-construction-pietons-securisation-electrification/). No 2026 confirmation of a building permit was found. Mille Levert and 16 PDC unit counts come from APRIDS. Evolo NEX (about 256 units, completed around 2025 per the City's PPU page) is not listed separately."
+  },
+  {
+    "station": "Centrale",
+    "area": "Ville-Marie, downtown Montréal",
+    "opened": "2023-07-31",
+    "summary": "The REM's downtown terminus sits inside Gare Centrale, which also connects VIA Rail, exo trains, the metro and the underground city. The once-bleak 'Quartier des gares' south of the station has filled with 200-metre towers since 2023, and owner Cominar now plans to renovate the station itself and eventually build residential towers above it. The former Mansfield bus terminal, closed when the REM opened, is slated for another 200-metre tower.",
+    "activity": "high",
+    "stats": [
+      {
+        "label": "Homes that could be built over Gare Centrale (Cominar estimate)",
+        "value": "≈ 1,800",
+        "source_url": "https://www.lapresse.ca/affaires/marche-immobilier/2024-05-24/centre-ville-de-montreal/des-tours-jumelles-au-dessus-de-la-gare-centrale.php"
+      },
+      {
+        "label": "Office floor to lease above the station (Bureaux de la Gare)",
+        "value": "600,000 sq ft",
+        "source_url": "https://www.lapresse.ca/affaires/2026-10-19/centre-ville-de-montreal/la-gare-centrale-aura-droit-a-une-cure-de-jouvence.php"
+      },
+      {
+        "label": "Annual passages through the station complex (2019)",
+        "value": "50 million",
+        "source_url": "https://www.lapresse.ca/affaires/marche-immobilier/2024-05-24/centre-ville-de-montreal/des-tours-jumelles-au-dessus-de-la-gare-centrale.php"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gare Centrale renewal: Bureaux de la Gare and future twin towers",
+        "developer": "Cominar",
+        "status": "proposed",
+        "uses": ["office", "retail", "residential", "park"],
+        "units": null,
+        "floor_area": "600,000 sq ft office tower (935 De La Gauchetière)",
+        "height": "twin residential towers of nearly 200 m (phase 2)",
+        "timeline": "Office renovation after CN leaves (Nov 2027); residential phase on hold",
+        "cost": null,
+        "description": "Cominar will renovate the former CN headquarters above the station, rebranded 'Bureaux de la Gare', and fully redo the station's retail concourse while keeping the heritage hall. A second phase would add two residential towers and replace the De La Gauchetière parking garage with a public square, but Cominar says it is not the right time for residential.",
+        "renders_url": "https://www.lapresse.ca/affaires/2026-10-19/centre-ville-de-montreal/la-gare-centrale-aura-droit-a-une-cure-de-jouvence.php",
+        "source_url": "https://www.lapresse.ca/affaires/2026-10-19/centre-ville-de-montreal/la-gare-centrale-aura-droit-a-une-cure-de-jouvence.php"
+      },
+      {
+        "name": "Skyla and Moxy Montréal Downtown (900 Saint-Jacques)",
+        "developer": "Canvar",
+        "status": "completed",
+        "uses": ["residential", "hotel"],
+        "units": null,
+        "floor_area": null,
+        "height": "63 storeys (≈ 200 m)",
+        "timeline": "Delivered 2025–2026",
+        "cost": null,
+        "description": "A 63-storey rental tower with a Moxy hotel in its podium, marketed as Montréal's tallest residential tower and within walking distance of Gare Centrale and Bonaventure metro. La Presse reported more than 600 apartments and about 200 hotel rooms.",
+        "renders_url": "https://chevaliermorales.com/projets/900-saint-jacques",
+        "source_url": "https://adresses.ca/projets/900-saint-jacques/"
+      },
+      {
+        "name": "Place Banque Nationale (800 Saint-Jacques)",
+        "developer": "Banque Nationale du Canada (built by Broccolini and Pomerleau)",
+        "status": "completed",
+        "uses": ["office", "park"],
+        "units": null,
+        "floor_area": null,
+        "height": "40 storeys",
+        "timeline": "2019–2024",
+        "cost": null,
+        "description": "National Bank's new headquarters, the largest commercial real-estate project in Montréal in 30 years, bringing together more than 11,000 employees. It connects to the underground city and includes a public park of over 40,000 sq ft.",
+        "renders_url": "https://www.bnc.ca/a-propos-de-nous/nouvelles-medias/communiques/2024/20240919-bnc-inauguration-place-banque-nationale.html",
+        "source_url": "https://www.bnc.ca/a-propos-de-nous/nouvelles-medias/communiques/2024/20240919-bnc-inauguration-place-banque-nationale.html"
+      },
+      {
+        "name": "Victoria sur le Parc (700 Saint-Jacques)",
+        "developer": "Broccolini",
+        "status": "completed",
+        "uses": ["residential", "office", "retail"],
+        "units": 400,
+        "floor_area": "330,000 sq ft office and retail",
+        "height": "58 storeys (200 m)",
+        "timeline": "Delivered 2023",
+        "cost": null,
+        "description": "A 58-storey glass condo tower on a 9-storey office podium at Square Victoria, between downtown and Old Montréal, roughly 400 m from Gare Centrale.",
+        "renders_url": "https://www.broccolini.com/fr/projet/victoria-sur-le-parc",
+        "source_url": "https://www.broccolini.com/fr/projet/victoria-sur-le-parc"
+      },
+      {
+        "name": "Former Terminus Mansfield tower (900 Saint-Antoine Ouest)",
+        "developer": "Broccolini",
+        "status": "proposed",
+        "uses": ["residential", "retail", "park"],
+        "units": 664,
+        "floor_area": null,
+        "height": "≈ 200 m",
+        "timeline": null,
+        "cost": null,
+        "description": "A planned skyscraper on the former South Shore bus terminal at the foot of Place Bonaventure, which closed after the REM opened. Ville-Marie's urban-planning committee gave a preliminary green light in 2024, noting it would densify a site near several metro and REM stations.",
+        "renders_url": null,
+        "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2024-03-25/premier-feu-vert-pour-un-nouveau-gratte-ciel-de-200-metres.php"
+      }
+    ],
+    "plans": [
+      {
+        "name": "Programme particulier d'urbanisme (PPU) du Quartier des gares",
+        "by": "Ville de Montréal / Arrondissement de Ville-Marie",
+        "url": "https://montreal.ca/articles/les-programmes-particuliers-durbanisme-ville-marie-20366"
+      }
+    ],
+    "notes": "Skyla's unit count varies by source (La Presse 2024: more than 600 plus a 200-room Moxy; SkyscraperPage: 626 apartments and 216 rooms; other sites 681–700), so units is null. SkyscraperPage timed out on fetch. The Victoria sur le Parc, Place Banque Nationale, Skyla and Mansfield sites are about 250–450 m from the station by OpenStreetMap geocoding; Skyla's position is inferred from its neighbours because geocoding of its address failed. La Presse notes these towers will also be served by the future Griffintown–Bernard-Landry REM station. Cominar has not released the twin-tower renders, so the 2026 La Presse article (with Cominar illustrations of the office and retail renovation) is used as the renders link. No 2026 update was found on the Mansfield tower; a lower-reliability listing (imtl.org) still calls it 'en phase de conception'."
+  },
+  {
+    "station": "McGill",
+    "area": "Ville-Marie, downtown Montréal",
+    "opened": "2025-11-17",
+    "summary": "The REM's McGill station lies under avenue McGill College, between Centre Eaton and Place Montréal Trust, with no street entrance, and connects to the green-line metro and the underground city. It is in the heart of the retail and office core, where the REM has arrived alongside new residential towers and office-to-housing conversions. The City's plan to turn McGill College into a pedestrian park has been pushed to 2028.",
+    "activity": "medium",
+    "stats": [
+      {
+        "label": "Homes in 1 Square Phillips phase 1",
+        "value": "≈ 790 (condos + rentals)",
+        "source_url": "https://www.renx.ca/two-major-brivia-group-developments-placed-into-receivership"
+      },
+      {
+        "label": "Rental units approved in the 1253 McGill College conversion",
+        "value": "371",
+        "source_url": "https://lemay.com/projects/1253-mcgill-college-avenue/"
+      },
+      {
+        "label": "Trees planned for the McGill College redesign",
+        "value": "≈ 200",
+        "source_url": "https://montreal.ca/articles/avenue-mcgill-college-une-nouvelle-place-publique-au-coeur-du-centre-ville-97449"
+      }
+    ],
+    "projects": [
+      {
+        "name": "1 Square Phillips",
+        "developer": "Brivia Group",
+        "status": "completed",
+        "uses": ["residential", "retail"],
+        "units": 781,
+        "floor_area": null,
+        "height": "61 storeys (≈ 200 m); phase 2: 21 storeys",
+        "timeline": "Phase 1 completed 2026; phase 2 (441 units) under construction",
+        "cost": null,
+        "description": "Montréal's tallest residential tower, at Square Phillips about 350 m from the station, with 488 condos and 293 rentals in phase 1. In January 2026 all phases went into court-supervised CCAA restructuring; phase 2 was about 75% complete at that point.",
+        "renders_url": "https://briviagroup.ca/project/1-square-phillips/",
+        "source_url": "https://www.renx.ca/two-major-brivia-group-developments-placed-into-receivership"
+      },
+      {
+        "name": "1253 McGill College (Confederation Building conversion)",
+        "developer": "Les immeubles Polaris and Contessa Developments",
+        "status": "approved",
+        "uses": ["residential", "retail"],
+        "units": 371,
+        "floor_area": "3,100+ m² retail",
+        "height": "20 storeys (up to 75 m)",
+        "timeline": "Approved May 2026",
+        "cost": null,
+        "description": "The 1927 heritage office building, about 125 m from the station, will be converted to rentals with a new addition on Sainte-Catherine. It will have 371 units, including 40 family-sized, and a direct link to the underground city.",
+        "renders_url": "https://lemay.com/projects/1253-mcgill-college-avenue/",
+        "source_url": "https://montreal.ca/articles/dossiers-durbanisme-qui-ont-fait-lobjet-dune-decision-dans-ville-marie-38783"
+      },
+      {
+        "name": "Avenue McGill College redesign (Place Oscar-Peterson)",
+        "developer": "Ville de Montréal",
+        "status": "proposed",
+        "uses": ["park"],
+        "units": null,
+        "floor_area": null,
+        "height": null,
+        "timeline": "Postponed to 2028; phasing under review",
+        "cost": null,
+        "description": "A competition-winning plan to turn McGill College, between Cathcart and Sherbrooke, into a pedestrian linear park with about 200 trees and a square honouring Oscar Peterson. The new administration pushed work from 2026 to 2028 and is reviewing the project.",
+        "renders_url": "https://montreal.ca/articles/avenue-mcgill-college-une-nouvelle-place-publique-au-coeur-du-centre-ville-97449",
+        "source_url": "https://montrealgazette.com/news/plan-to-turn-mcgill-college-into-pedestrian-square-and-honour-oscar-peterson-postponed/"
+      },
+      {
+        "name": "Maestria",
+        "developer": "Groupe Devimco (with Fonds immobilier de solidarité FTQ and Fiera Immobilier)",
+        "status": "completed",
+        "uses": ["residential", "retail"],
+        "units": 1742,
+        "floor_area": "44,512 sq ft retail",
+        "height": "two towers of 58 and 61 storeys",
+        "timeline": "Delivered 2023–2024",
+        "cost": "$730M",
+        "description": "Twin towers facing Place des Festivals, linked by Québec's highest residential skybridge, with 1,042 condos and 700 rentals. The developer lists McGill station as a 6-minute walk.",
+        "renders_url": "https://www.maestriacondos.com/",
+        "source_url": "https://devimco.com/wp-content/uploads/2022/04/communique_devimco_passerelle-maestria_fr_vf2.docx.pdf"
+      }
+    ],
+    "plans": [],
+    "notes": "1 Square Phillips phase 1 counts vary: RENX/Raymond Chabot give 488 condos + 293 rentals, while Connect CRE and the 2020 launch cite 498 + 298; 781 (488 + 293) is used. Magil Construction lists phase 1 as completed April 2026: https://www.magil.com/fr/projets/square-philipps. Phase 2's final status under CCAA as of November 2026 is not confirmed. Maestria (about 660 m away) is closer to Place-des-Arts metro and is included only as a notable project within 800 m. Its source PDF is cited from search-result text (devimco.com), and its 2023–2024 delivery comes from a Devimco commercial brochure PDF (https://devimco.com/wp-content/uploads/2025/03/d-30402-devimco-brochure-commerciale-maestria_v6.pdf). The McGill opening date comes from CDPQ Infra: https://cdpqinfra.com/en/news/pressreleases/inauguration-rem-deux-montagnes-branch. Distances come from OpenStreetMap geocoding."
+  }
+]
